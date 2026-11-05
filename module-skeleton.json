@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-offline-and-pwa-dart-desktop",
+  "capabilityKey": "liberusoftware/module-cms-offline-and-pwa",
+  "presentation": "dart-desktop",
+  "package": "module_cms_offline_and_pwa_dart_desktop",
+  "foundation": "module-boilerplate-dart-desktop",
+  "foundationCommit": "5ccb3f077d7279dad684f2aa24e4c9d27f0d1246",
+  "canonicalPlan": "projects/cms/nextjs/offline-and-pwa.md",
+  "presentationPlan": "projects/cms/features/offline-and-pwa.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
